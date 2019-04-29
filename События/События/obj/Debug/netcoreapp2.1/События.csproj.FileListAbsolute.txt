@@ -1,0 +1,11 @@
+C:\Users\Милашка\source\repos\События\События\bin\Debug\netcoreapp2.1\События.deps.json
+C:\Users\Милашка\source\repos\События\События\bin\Debug\netcoreapp2.1\События.runtimeconfig.json
+C:\Users\Милашка\source\repos\События\События\bin\Debug\netcoreapp2.1\События.runtimeconfig.dev.json
+C:\Users\Милашка\source\repos\События\События\bin\Debug\netcoreapp2.1\События.dll
+C:\Users\Милашка\source\repos\События\События\bin\Debug\netcoreapp2.1\События.pdb
+C:\Users\Милашка\source\repos\События\События\obj\Debug\netcoreapp2.1\События.csprojAssemblyReference.cache
+C:\Users\Милашка\source\repos\События\События\obj\Debug\netcoreapp2.1\События.csproj.CoreCompileInputs.cache
+C:\Users\Милашка\source\repos\События\События\obj\Debug\netcoreapp2.1\События.AssemblyInfoInputs.cache
+C:\Users\Милашка\source\repos\События\События\obj\Debug\netcoreapp2.1\События.AssemblyInfo.cs
+C:\Users\Милашка\source\repos\События\События\obj\Debug\netcoreapp2.1\События.dll
+C:\Users\Милашка\source\repos\События\События\obj\Debug\netcoreapp2.1\События.pdb
